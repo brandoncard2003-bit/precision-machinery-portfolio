@@ -1,3 +1,3 @@
-# Model Rocket
+# Metal Model Rocket
 
 *Coming soon*
