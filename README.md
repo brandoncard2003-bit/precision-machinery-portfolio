@@ -19,6 +19,7 @@ Autodesk Fusion, and Tinkercad and printed on a Creality Ender 3.
 | [Drum Kit Boot](#drum-kit-boot) | 3D Printing | Tinkercad, Creality Ender 3 |
 | [Phoenix Christmas Ornament](#phoenix-christmas-ornament) | 3D Printing | Autodesk Fusion, Creality Ender 3 |
 | [Guitar Body](#guitar-body) | 3D Printing | Creality Ender 3 |
+| [3D Printed Phone Cases](#3d-printed-phone-cases) | 3D Printing | Creality Ender 3 |
 
 ---
 
