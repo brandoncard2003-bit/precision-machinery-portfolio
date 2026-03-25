@@ -165,3 +165,26 @@ forces. Copper shielding was installed in the body cavities to prevent
 electromagnetic interference with the pickups and electronics.
 
 <img src="https://github.com/user-attachments/assets/5dec4766-9982-408e-a046-c326066c4be7" width="300"/>
+
+---
+
+## 3D Printed Phone Cases
+**Type:** 3D Printing
+**Tools:** Creality Ender 3
+**Material:** Flexible PLA Filament
+
+Printed a collection of phone cases for family and personal use. While the 
+base STL files were sourced online, the engravings on the back of each case 
+were independently designed. Flexible PLA filament was selected specifically 
+for easy installation and shock resistance. Cases printed include:
+
+- iPhone 8
+- iPhone 12 Pro
+- iPhone 14
+- iPhone 14 Pro Max
+- iPhone 15
+- iPhone 15 Plus
+- Samsung Galaxy S22
+
+### Finished Cases
+<img src="https://github.com/user-attachments/assets/b66d3027-9b40-4102-897f-78110d7d8113" width="300"/>
